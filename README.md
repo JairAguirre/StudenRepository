@@ -1,2 +1,3 @@
 # StudenRepository
-Spring Boot FullSatck Application
+Spring Boot FullSatck Application.
+Bakend in Java, Frontend using React. 
